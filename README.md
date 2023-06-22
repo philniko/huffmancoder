@@ -1,2 +1,2 @@
 # huffmancoder
-Generate Huffman code based on a txt file and use it to code/decode input.
+Generate Huffman code based on a txt file and use it to encode/decode input.
